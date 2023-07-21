@@ -1,9 +1,5 @@
 CSVS vs DVCS
-git init
-git init --bare <Bare repo> <Remote Repository>
-contents of .git
 
-branches/
 config
 description
 FETCH_HEAD
